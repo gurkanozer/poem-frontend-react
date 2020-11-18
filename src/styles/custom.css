@@ -1,0 +1,15 @@
+body {
+  background: #f5f6fa !important;
+}
+.navbar {
+  background: #0097e6 !important;
+}
+.navbar .navbar-brand {
+  color: #ffffff !important;
+}
+.navbar .nav-link {
+  color: #ffffff !important;
+}
+.navbar .navbar-toggler {
+  background: #ffffff !important;
+}
